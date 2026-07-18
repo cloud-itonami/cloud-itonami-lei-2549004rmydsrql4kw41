@@ -1,0 +1,5 @@
+[["trip-site-1" :site/url "https://www.trip.com" 1 :add]
+ ["trip-site-1" :site/checked-at "2026-07-18" 1 :add]
+ ["trip-site-1" :site/http-status 200 1 :add]
+ ["trip-site-1" :site/title "国内も海外も｜ホテル・航空券・列車・eSIM・体験チケットも 旅行ならTrip.com" 1 :add]
+ ["trip-site-1" :site/description "Trip.com（トリップドットコム）は世界最大級のオンライン旅行会社。航空券、ホテル、列車、現地ツアーなど豊富な旅行商品をワンストップでお得に予約できます。国内旅行、海外旅行、出張や社員旅行にも、安心の日本語カスタマーサービスで旅をサポートします。" 1 :add]]
