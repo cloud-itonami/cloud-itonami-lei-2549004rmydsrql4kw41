@@ -1,6 +1,13 @@
-{:company/legal-name "Trip.com Group Limited"
- :company/lei "2549004RMYDSRQL4KW41"
+{:company/gleif-note "registry facts from GLEIF (https://api.gleif.org/api/v1/lei-records/2549004RMYDSRQL4KW41), retrieved 2026-08-25 by scripts/lei-gleif-ingest.cljs (GET only)"
+ :company/inquiry-form-url "https://jp.trip.com/pages/customer-service/?locale=ja-JP&curr=JPY"
  :company/jurisdiction "KY (Cayman Islands)"
- :company/website "https://www.trip.com"
+ :company/legal-address "C/O Maples Corporate Services Limited, PO Box 309, Ugland House, Grand Cayman, KY1-1104, George Town, KY"
+ :company/legal-form-elf "OSBR"
+ :company/legal-jurisdiction "KY"
+ :company/legal-name "Trip.com Group Limited"
+ :company/lei "2549004RMYDSRQL4KW41"
+ :company/lei-status "LAPSED"
+ :company/postal-address "No. 968 Jinzhong Road, 200335, Shanghai, CN-SH, CN"
+ :company/registration-number "CR-97668"
  :company/ticker "TCOM (NASDAQ)"
- :company/inquiry-form-url "https://jp.trip.com/pages/customer-service/?locale=ja-JP&curr=JPY"}
+ :company/website "https://www.trip.com"}
